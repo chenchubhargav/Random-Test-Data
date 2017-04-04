@@ -1,0 +1,3 @@
+The purpose of the first part of python program is to generate a Pandas data frame of random test data.  
+This data will be stored as an Excel workbook.  
+In the second part, you will write a python program to read the excel workbook and perform a variety of summary and aggregation tasks.  
